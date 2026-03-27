@@ -1,18 +1,11 @@
-## Hi there 👋
--I am currently learning Full Stack Web Development.
-## My Tech Stack is MERN.
+# My Info
+---
+I am currently learning **Full Stack Web Development**.
 
-<!--
-**UsmanCS365/UsmanCS365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
- - I’m currently learning Full Stack Web Development and my tech stack is MERN.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills I am mastering:
+- [x] Node JS with Express JS
+- [x] MongoDB
+- [x] React JS
+- [x] API Testing
+- [x] Version Control
+- [ ] Deployment/Working with Servers or Hosting
